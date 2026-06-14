@@ -1,5 +1,3 @@
-#pragma once
-
 #include "wavefront_tools.h"
 #include "wavefront_MTL.h"
 
